@@ -1,0 +1,14 @@
+{
+  "grant_pivot_median": 0.5274706044179813,
+  "research_pivot_median": 0.2953051427027844,
+  "grant_pivot_q005": 3.462278440280464e-06,
+  "grant_pivot_q995": 0.9999346036383896,
+  "research_pivot_q005": 0.00040726789289461377,
+  "research_pivot_q995": 0.9993494646108042,
+  "pivot_type_counts": {
+    "drift": 2607299,
+    "alignment": 2607300,
+    "inertia": 1455800,
+    "switching": 1455800
+  }
+}

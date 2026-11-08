@@ -1,0 +1,1418 @@
+{
+  "main_c_limits": {
+    "x": [
+      0.25,
+      0.65
+    ],
+    "y": [
+      0.18,
+      0.62
+    ]
+  },
+  "labels": [
+    {
+      "scope": "main",
+      "label": "LM",
+      "key": [
+        "NIH",
+        "LM"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.519071917817625,
+        0.4619700090105035
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "MD",
+      "key": [
+        "NIH",
+        "MD"
+      ],
+      "offset_points": [
+        8,
+        8
+      ],
+      "ha": "left",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5193092399945223,
+        0.4589553656014763
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "AT",
+      "key": [
+        "NIH",
+        "AT"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5180084163524455,
+        0.4809571193325256
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "NR",
+      "key": [
+        "NIH",
+        "NR"
+      ],
+      "offset_points": [
+        -8,
+        8
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4859711410694021,
+        0.4472014399937323
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "E",
+      "key": [
+        "NSFC",
+        "E"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4918544061218596,
+        0.4607582586314321
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "TW",
+      "key": [
+        "NIH",
+        "TW"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.4250509249390209,
+        0.350948650746993
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "A",
+      "key": [
+        "NSFC",
+        "A"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4318900543137272,
+        0.3625332643231076
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "EY",
+      "key": [
+        "NIH",
+        "EY"
+      ],
+      "offset_points": [
+        -8,
+        8
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4394904592508699,
+        0.2689448339281913
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "MPS",
+      "key": [
+        "NSF",
+        "MPS"
+      ],
+      "offset_points": [
+        27.719166194552912,
+        -14.218146540679413
+      ],
+      "ha": "right",
+      "va": "baseline",
+      "position_from_Q4": [
+        0.4476214825415059,
+        0.2619878361739035
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "ENG",
+      "key": [
+        "NSF",
+        "ENG"
+      ],
+      "offset_points": [
+        0,
+        11
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5365635868571598,
+        0.4071643762880503
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "B",
+      "key": [
+        "NSFC",
+        "B"
+      ],
+      "offset_points": [
+        8,
+        8
+      ],
+      "ha": "left",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5437859338046105,
+        0.4195190234227693
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "F",
+      "key": [
+        "NSFC",
+        "F"
+      ],
+      "offset_points": [
+        8,
+        8
+      ],
+      "ha": "left",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4962084498637317,
+        0.4255698733639263
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "TIP",
+      "key": [
+        "NSF",
+        "TIP"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5457327921056767,
+        0.4681942777732311
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "G",
+      "key": [
+        "NSFC",
+        "G"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.6015753674620982,
+        0.585802961503748
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "H",
+      "key": [
+        "NSFC",
+        "H"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.5965935394731918,
+        0.5342136671051327
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "EDU",
+      "key": [
+        "NSF",
+        "EDU"
+      ],
+      "offset_points": [
+        5.734955267671523,
+        0.3134999310871649
+      ],
+      "ha": "left",
+      "va": "baseline",
+      "position_from_Q4": [
+        0.6160765896298301,
+        0.5142764312274234
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "GM",
+      "key": [
+        "NIH",
+        "GM"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.410704090326131,
+        0.2228211154191165
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "BIO",
+      "key": [
+        "NSF",
+        "BIO"
+      ],
+      "offset_points": [
+        0.7566602792967672,
+        8.477923150618722
+      ],
+      "ha": "left",
+      "va": "baseline",
+      "position_from_Q4": [
+        0.4843826164794512,
+        0.270898552508125
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "HG",
+      "key": [
+        "NIH",
+        "HG"
+      ],
+      "offset_points": [
+        -6.013808642656862,
+        7.681398731532795
+      ],
+      "ha": "left",
+      "va": "baseline",
+      "position_from_Q4": [
+        0.2983390700005964,
+        0.2975883462248384
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "GEO",
+      "key": [
+        "NSF",
+        "GEO"
+      ],
+      "offset_points": [
+        -9.199915413719133,
+        7.2831119418495405
+      ],
+      "ha": "left",
+      "va": "baseline",
+      "position_from_Q4": [
+        0.3088898628087902,
+        0.2054690621406017
+      ]
+    },
+    {
+      "scope": "main",
+      "label": "DC",
+      "key": [
+        "NIH",
+        "DC"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.3602202404891911,
+        0.257658649043502
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "OD",
+      "key": [
+        "NIH",
+        "OD"
+      ],
+      "offset_points": [
+        8,
+        0
+      ],
+      "ha": "left",
+      "va": "center",
+      "position_from_Q4": [
+        0.4865743743461971,
+        0.3220781185290065
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "SBE",
+      "key": [
+        "NSF",
+        "SBE"
+      ],
+      "offset_points": [
+        -15,
+        15
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4859209858109691,
+        0.3207553591635325
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "HL",
+      "key": [
+        "NIH",
+        "HL"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5057700864066043,
+        0.3438711347794955
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "TR",
+      "key": [
+        "NIH",
+        "TR"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.5062374482601011,
+        0.3409187399638435
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "AA",
+      "key": [
+        "NIH",
+        "AA"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.4945878053403778,
+        0.353642784701667
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "DE",
+      "key": [
+        "NIH",
+        "DE"
+      ],
+      "offset_points": [
+        -8,
+        8
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4969432484053979,
+        0.3543350247865277
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "AR",
+      "key": [
+        "NIH",
+        "AR"
+      ],
+      "offset_points": [
+        8,
+        8
+      ],
+      "ha": "left",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4623499905150825,
+        0.3177934782760008
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "NS",
+      "key": [
+        "NIH",
+        "NS"
+      ],
+      "offset_points": [
+        8,
+        0
+      ],
+      "ha": "left",
+      "va": "center",
+      "position_from_Q4": [
+        0.4648731036197996,
+        0.3187808794025493
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "DK",
+      "key": [
+        "NIH",
+        "DK"
+      ],
+      "offset_points": [
+        15,
+        -15
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.502498743047547,
+        0.3369088835740654
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "OD",
+      "key": [
+        "NSF",
+        "OD"
+      ],
+      "offset_points": [
+        0,
+        11
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4814967512920242,
+        0.3150856383445964
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "MH",
+      "key": [
+        "NIH",
+        "MH"
+      ],
+      "offset_points": [
+        -8,
+        8
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4567553667969289,
+        0.3158867794912744
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "ES",
+      "key": [
+        "NIH",
+        "ES"
+      ],
+      "offset_points": [
+        8,
+        8
+      ],
+      "ha": "left",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4957328183472001,
+        0.3809200549461951
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "RR",
+      "key": [
+        "NIH",
+        "RR"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4914400201009555,
+        0.3927910973946669
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "CA",
+      "key": [
+        "NIH",
+        "CA"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4593192612238672,
+        0.3397596877142741
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "DA",
+      "key": [
+        "NIH",
+        "DA"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4504426982125662,
+        0.3460672100630586
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "CISE",
+      "key": [
+        "NSF",
+        "CISE"
+      ],
+      "offset_points": [
+        5,
+        5
+      ],
+      "ha": "left",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5133584725497367,
+        0.3601554453596418
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "C",
+      "key": [
+        "NSFC",
+        "C"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.4811072869465935,
+        0.4052171387804397
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "AI",
+      "key": [
+        "NIH",
+        "AI"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4465971033471012,
+        0.3010599223334142
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "HD",
+      "key": [
+        "NIH",
+        "HD"
+      ],
+      "offset_points": [
+        -8,
+        8
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4806065922748171,
+        0.3489197327241167
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "AG",
+      "key": [
+        "NIH",
+        "AG"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.521937092088129,
+        0.3851435541723259
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "EB",
+      "key": [
+        "NIH",
+        "EB"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4719850750692124,
+        0.3805680690602227
+      ]
+    },
+    {
+      "scope": "zoom",
+      "label": "D",
+      "key": [
+        "NSFC",
+        "D"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.4543153386338727,
+        0.4077060172635482
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "ECON",
+      "key": [
+        "",
+        "ECON"
+      ],
+      "offset_points": [
+        8,
+        -8
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.5612784938682229,
+        0.446901412638652
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "PHA",
+      "key": [
+        "",
+        "PHA"
+      ],
+      "offset_points": [
+        -15,
+        15
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5625387107148391,
+        0.4512272603952848
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "VET",
+      "key": [
+        "",
+        "VET"
+      ],
+      "offset_points": [
+        15,
+        -15
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.5648640477882042,
+        0.5279744600255049
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "HP",
+      "key": [
+        "",
+        "HP"
+      ],
+      "offset_points": [
+        15,
+        0
+      ],
+      "ha": "left",
+      "va": "center",
+      "position_from_Q4": [
+        0.569250495176229,
+        0.5218693930008614
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "CS",
+      "key": [
+        "",
+        "CS"
+      ],
+      "offset_points": [
+        -11,
+        0
+      ],
+      "ha": "right",
+      "va": "center",
+      "position_from_Q4": [
+        0.5174028573428435,
+        0.383494999706957
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "ENG",
+      "key": [
+        "",
+        "ENG"
+      ],
+      "offset_points": [
+        8,
+        -8
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.5129439870889779,
+        0.3972952832168002
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "EAR",
+      "key": [
+        "",
+        "EAR"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.331522683279686,
+        0.2477580926594835
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "PHY",
+      "key": [
+        "",
+        "PHY"
+      ],
+      "offset_points": [
+        8,
+        8
+      ],
+      "ha": "left",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.3383150752449933,
+        0.2379036289695593
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "PSY",
+      "key": [
+        "",
+        "PSY"
+      ],
+      "offset_points": [
+        -11,
+        11
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5146533910869188,
+        0.3644984845006732
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "MED",
+      "key": [
+        "",
+        "MED"
+      ],
+      "offset_points": [
+        -11,
+        11
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5061481421166961,
+        0.4178425788512284
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "ENV",
+      "key": [
+        "",
+        "ENV"
+      ],
+      "offset_points": [
+        -15,
+        15
+      ],
+      "ha": "right",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.510980351744866,
+        0.4444589521648946
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "MAT",
+      "key": [
+        "",
+        "MAT"
+      ],
+      "offset_points": [
+        15,
+        -15
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.531265081910771,
+        0.389251399291491
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "CE",
+      "key": [
+        "",
+        "CE"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.5381697896986385,
+        0.4743510046499931
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "ENE",
+      "key": [
+        "",
+        "ENE"
+      ],
+      "offset_points": [
+        35,
+        -35
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.5502031401132309,
+        0.4977831891135327
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "BGM",
+      "key": [
+        "",
+        "BGM"
+      ],
+      "offset_points": [
+        -5,
+        -8
+      ],
+      "ha": "right",
+      "va": "top",
+      "position_from_Q4": [
+        0.5188520986888836,
+        0.2903049666221217
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "CHE",
+      "key": [
+        "",
+        "CHE"
+      ],
+      "offset_points": [
+        5,
+        -8
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.5338796196433776,
+        0.3047834784937597
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "BUS",
+      "key": [
+        "",
+        "BUS"
+      ],
+      "offset_points": [
+        0,
+        -35
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.5870188381118814,
+        0.5275474181244315
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "NUR",
+      "key": [
+        "",
+        "NUR"
+      ],
+      "offset_points": [
+        -20,
+        -20
+      ],
+      "ha": "right",
+      "va": "top",
+      "position_from_Q4": [
+        0.4946427142418451,
+        0.4668754612805493
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "DEC",
+      "key": [
+        "",
+        "DEC"
+      ],
+      "offset_points": [
+        20,
+        -20
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.58344571019057,
+        0.4670557729400389
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "ART",
+      "key": [
+        "",
+        "ART"
+      ],
+      "offset_points": [
+        0,
+        -35
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.6435291950916344,
+        0.4468057024405764
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "SOC",
+      "key": [
+        "",
+        "SOC"
+      ],
+      "offset_points": [
+        0,
+        5
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.6369228546452895,
+        0.4937953210216149
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "AGR",
+      "key": [
+        "",
+        "AGR"
+      ],
+      "offset_points": [
+        8,
+        -8
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.4457571984093151,
+        0.3335933008751001
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "MATH",
+      "key": [
+        "",
+        "MATH"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.4501626637337002,
+        0.280560637628922
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "IMM",
+      "key": [
+        "",
+        "IMM"
+      ],
+      "offset_points": [
+        -5,
+        0
+      ],
+      "ha": "right",
+      "va": "center",
+      "position_from_Q4": [
+        0.4955453253448056,
+        0.3254215763566795
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "DEN",
+      "key": [
+        "",
+        "DEN"
+      ],
+      "offset_points": [
+        -8,
+        0
+      ],
+      "ha": "right",
+      "va": "center",
+      "position_from_Q4": [
+        0.4404585226596235,
+        0.4202909861944933
+      ]
+    },
+    {
+      "scope": "fields",
+      "label": "NEU",
+      "key": [
+        "",
+        "NEU"
+      ],
+      "offset_points": [
+        0,
+        -8
+      ],
+      "ha": "center",
+      "va": "top",
+      "position_from_Q4": [
+        0.4064727928358687,
+        0.2956198164087484
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "R01",
+      "key": [
+        "NIH",
+        "R01"
+      ],
+      "offset_points": [
+        22.60572392386939,
+        -3.2987258093704668
+      ],
+      "ha": "right",
+      "va": "baseline",
+      "position_from_Q4": [
+        0.464682926939532,
+        0.3113655618302117
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "R15",
+      "key": [
+        "NIH",
+        "R15"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4687437423163602,
+        0.3251577078052642
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "R21",
+      "key": [
+        "NIH",
+        "R21"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4667687595229047,
+        0.3600856186617758
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "Standard Grant",
+      "key": [
+        "NSF",
+        "Standard Grant"
+      ],
+      "offset_points": [
+        8,
+        -8
+      ],
+      "ha": "left",
+      "va": "top",
+      "position_from_Q4": [
+        0.490910450267256,
+        0.3350875503412539
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "General Program",
+      "key": [
+        "NSFC",
+        "General Program"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5103658762665078,
+        0.4258212480730441
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "Young Scientists Fund",
+      "key": [
+        "NSFC",
+        "Young Scientists Fund"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.5138695136613185,
+        0.4697729416040812
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "R03",
+      "key": [
+        "NIH",
+        "R03"
+      ],
+      "offset_points": [
+        0,
+        8
+      ],
+      "ha": "center",
+      "va": "bottom",
+      "position_from_Q4": [
+        0.4412384689015022,
+        0.3743364309529666
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "Continuing Grant",
+      "key": [
+        "NSF",
+        "Continuing Grant"
+      ],
+      "offset_points": [
+        8,
+        0
+      ],
+      "ha": "left",
+      "va": "center",
+      "position_from_Q4": [
+        0.4408120798964219,
+        0.2743866391875559
+      ]
+    },
+    {
+      "scope": "programmes",
+      "label": "RF1",
+      "key": [
+        "NIH",
+        "RF1"
+      ],
+      "offset_points": [
+        -8.190963826829943,
+        12.363402229014184
+      ],
+      "ha": "left",
+      "va": "baseline",
+      "position_from_Q4": [
+        0.5289650156498353,
+        0.3652750238136134
+      ]
+    }
+  ]
+}

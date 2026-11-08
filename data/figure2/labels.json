@@ -1,0 +1,422 @@
+{
+  "main": {
+    "NSFC:G": [
+      0,
+      4,
+      "center",
+      "bottom"
+    ],
+    "NSFC:H": [
+      4,
+      1,
+      "left",
+      "center"
+    ],
+    "NSF:EDU": [
+      4,
+      0,
+      "left",
+      "center"
+    ],
+    "NIH:AT": [
+      0,
+      4,
+      "center",
+      "bottom"
+    ],
+    "NSF:TIP": [
+      4,
+      0,
+      "left",
+      "center"
+    ],
+    "NIH:LM": [
+      -5,
+      -1,
+      "right",
+      "top"
+    ],
+    "NIH:MD": [
+      4,
+      0,
+      "left",
+      "center"
+    ],
+    "NSFC:E": [
+      -4,
+      5,
+      "right",
+      "bottom"
+    ],
+    "NIH:NR": [
+      -4,
+      1,
+      "right",
+      "bottom"
+    ],
+    "NSFC:F": [
+      -4,
+      0,
+      "right",
+      "center"
+    ],
+    "NSFC:B": [
+      4,
+      2,
+      "left",
+      "bottom"
+    ],
+    "NSF:ENG": [
+      -4,
+      6,
+      "right",
+      "bottom"
+    ],
+    "NSFC:D": [
+      -4,
+      3,
+      "right",
+      "bottom"
+    ],
+    "NSFC:C": [
+      -4,
+      3,
+      "right",
+      "bottom"
+    ],
+    "NIH:RR": [
+      -15,
+      15,
+      "right",
+      "bottom"
+    ],
+    "NIH:AG": [
+      4,
+      4,
+      "left",
+      "bottom"
+    ],
+    "NIH:ES": [
+      4,
+      1,
+      "left",
+      "center"
+    ],
+    "NIH:EB": [
+      -4,
+      0,
+      "right",
+      "center"
+    ],
+    "NSFC:A": [
+      4,
+      1,
+      "left",
+      "bottom"
+    ],
+    "NIH:TW": [
+      -4,
+      1,
+      "right",
+      "bottom"
+    ],
+    "NIH:AI": [
+      -4,
+      2,
+      "right",
+      "bottom"
+    ],
+    "NIH:HG": [
+      0,
+      4,
+      "center",
+      "bottom"
+    ],
+    "NSF:BIO": [
+      4,
+      -1,
+      "left",
+      "top"
+    ],
+    "NIH:EY": [
+      -4,
+      1,
+      "right",
+      "bottom"
+    ],
+    "NSF:MPS": [
+      4,
+      -1,
+      "left",
+      "top"
+    ],
+    "NIH:DC": [
+      0,
+      4,
+      "center",
+      "bottom"
+    ],
+    "NIH:GM": [
+      0,
+      4,
+      "center",
+      "bottom"
+    ],
+    "NSF:GEO": [
+      0,
+      4,
+      "center",
+      "bottom"
+    ],
+    "NSF:CISE": [
+      6,
+      4,
+      "left",
+      "bottom"
+    ]
+  },
+  "zoom": {
+    "NIH:MH": [
+      20,
+      20,
+      "left",
+      "bottom"
+    ],
+    "NIH:AR": [
+      -2,
+      4,
+      "center",
+      "bottom"
+    ],
+    "NIH:NS": [
+      3,
+      -3,
+      "left",
+      "top"
+    ],
+    "NIH:OD": [
+      -1,
+      -7,
+      "center",
+      "top"
+    ],
+    "NSF:SBE": [
+      3,
+      -3,
+      "left",
+      "top"
+    ],
+    "NSF:OD": [
+      -3,
+      2,
+      "right",
+      "bottom"
+    ],
+    "NIH:DK": [
+      1,
+      -6,
+      "left",
+      "top"
+    ],
+    "NIH:TR": [
+      -20,
+      -20,
+      "right",
+      "top"
+    ],
+    "NIH:HL": [
+      3,
+      3,
+      "left",
+      "bottom"
+    ],
+    "NIH:CA": [
+      -3,
+      -2,
+      "right",
+      "top"
+    ],
+    "NIH:DA": [
+      3,
+      2,
+      "left",
+      "bottom"
+    ],
+    "NIH:HD": [
+      -3,
+      2,
+      "right",
+      "bottom"
+    ],
+    "NIH:AA": [
+      -3,
+      4,
+      "right",
+      "bottom"
+    ],
+    "NIH:DE": [
+      3,
+      0,
+      "left",
+      "center"
+    ]
+  },
+  "fields": {
+    "EAR": [
+      -3,
+      3,
+      "right",
+      "bottom"
+    ],
+    "PHY": [
+      3,
+      -1,
+      "left",
+      "top"
+    ],
+    "NEU": [
+      -3,
+      0,
+      "right",
+      "center"
+    ],
+    "MATH": [
+      -3,
+      -2,
+      "right",
+      "top"
+    ],
+    "BGM": [
+      0,
+      -3,
+      "center",
+      "top"
+    ],
+    "CHE": [
+      3,
+      -2,
+      "left",
+      "top"
+    ],
+    "AGR": [
+      3,
+      1,
+      "left",
+      "bottom"
+    ],
+    "IMM": [
+      -3,
+      -1,
+      "right",
+      "top"
+    ],
+    "PSY": [
+      4,
+      -1,
+      "left",
+      "top"
+    ],
+    "ENG": [
+      -7,
+      4,
+      "right",
+      "bottom"
+    ],
+    "CS": [
+      -9,
+      -3,
+      "right",
+      "top"
+    ],
+    "MAT": [
+      7,
+      1,
+      "left",
+      "bottom"
+    ],
+    "MED": [
+      -3,
+      -2,
+      "right",
+      "top"
+    ],
+    "ENV": [
+      3,
+      -3,
+      "left",
+      "top"
+    ],
+    "NUR": [
+      -5,
+      7,
+      "right",
+      "bottom"
+    ],
+    "VET": [
+      -6,
+      7,
+      "right",
+      "bottom"
+    ],
+    "HP": [
+      3,
+      -3,
+      "left",
+      "top"
+    ],
+    "BUS": [
+      3,
+      3,
+      "left",
+      "bottom"
+    ],
+    "ENE": [
+      -3,
+      2,
+      "right",
+      "bottom"
+    ],
+    "CE": [
+      -3,
+      2,
+      "right",
+      "top"
+    ],
+    "ECON": [
+      8,
+      -9,
+      "left",
+      "top"
+    ],
+    "PHA": [
+      5,
+      -1,
+      "left",
+      "top"
+    ],
+    "DEC": [
+      3,
+      0,
+      "left",
+      "center"
+    ],
+    "SOC": [
+      0,
+      3,
+      "center",
+      "bottom"
+    ],
+    "ART": [
+      -3,
+      -2,
+      "right",
+      "top"
+    ],
+    "DEN": [
+      -3,
+      0,
+      "right",
+      "center"
+    ]
+  }
+}
